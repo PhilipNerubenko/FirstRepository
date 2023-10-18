@@ -4,3 +4,4 @@ Good bye!
 asdf
 Line from user2
 Line from user1
+lene from user1 - lesson about rebase
